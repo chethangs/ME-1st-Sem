@@ -1,0 +1,63 @@
+[18-Oct-2016 12:26:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:26:49 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 85
+[18-Oct-2016 12:26:49 Etc/GMT] PHP Warning:  MasterClass::getallResultratio(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 87
+[18-Oct-2016 12:27:09 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:09 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 74
+[18-Oct-2016 12:27:09 Etc/GMT] PHP Warning:  MasterClass::getgenderRation(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 76
+[18-Oct-2016 12:27:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:10 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 74
+[18-Oct-2016 12:27:10 Etc/GMT] PHP Warning:  MasterClass::getgenderRation(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 76
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 74
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  MasterClass::getgenderRation(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 76
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 74
+[18-Oct-2016 12:27:14 Etc/GMT] PHP Warning:  MasterClass::getgenderRation(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 76
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 42
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  MasterClass::distinctStatus(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 43
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 55
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 63
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  MasterClass::StudentsDiscontinud(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 65
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 42
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  MasterClass::distinctStatus(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 43
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 55
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 63
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  MasterClass::StudentsDiscontinud(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 65
+[18-Oct-2016 12:27:17 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 99
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  MasterClass::getDistinctStartYear(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 100
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 113
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 121
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  MasterClass::getYearWiseEnrollment(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 123
+[18-Oct-2016 12:27:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 99
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  MasterClass::getDistinctStartYear(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 100
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 113
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 121
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  MasterClass::getYearWiseEnrollment(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 123
+[18-Oct-2016 12:27:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 99
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  MasterClass::getDistinctStartYear(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 100
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 113
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 121
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  MasterClass::getYearWiseEnrollment(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 123
+[18-Oct-2016 12:27:23 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'nammahlz_ckm'@'localhost' to database 'nammahlz_cclub' in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 18
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 99
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  MasterClass::getDistinctStartYear(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 100
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 113
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 121
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  MasterClass::getYearWiseEnrollment(): Property access is not allowed yet in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 123
+[18-Oct-2016 12:27:25 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/nammahlz/public_html/mepro/include/MasterClass.php on line 23
